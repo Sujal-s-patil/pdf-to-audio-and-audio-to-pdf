@@ -21,5 +21,6 @@ Built with Python 3.9 and Tkinter GUI.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/Sujal-s-patil/pdf-to-audio-and-audio-to-pdf)
+pip install -r requirements.txt
+
