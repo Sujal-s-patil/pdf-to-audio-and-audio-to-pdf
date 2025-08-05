@@ -1,4 +1,25 @@
-# project
-this is my first time 
-author-sujal
-gggg
+# 📘 PDF ↔️ Audio Converter
+
+This project converts:
+
+- 📄 PDF → 🎧 Audio (`.mp3`)
+- 🎧 Audio (`.mp3`/`.wav`) → 📄 PDF (speech-to-text)
+
+Built with Python 3.9 and Tkinter GUI.
+
+---
+
+## 🛠 Requirements
+
+- Python 3.9 (Install from [python.org](https://www.python.org/downloads/release/python-390/))
+- pip (Python package manager)
+
+---
+
+## 📥 Installation
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
