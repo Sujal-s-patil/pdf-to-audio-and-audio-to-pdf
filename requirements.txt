@@ -1,0 +1,7 @@
+PyMuPDF==1.18.19
+soundfile==0.12.1
+fpdf==1.7.2
+PyAudio==0.2.14
+gTTS==2.5.1
+SpeechRecognition==3.10.1
+pathlib==1.0.1
